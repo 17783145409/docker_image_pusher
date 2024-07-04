@@ -1,2 +1,2 @@
-df_lcq/nginx
+lcqboot/nginx
 
